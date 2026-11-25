@@ -722,7 +722,7 @@ streamlit run dashboard/app.py
 |---|---|---|
 | **עמית מוסרי** | מוביל פרויקט, מתכנת ואוסף נתונים | [amitmosseri01-cloud](https://github.com/amitmosseri01-cloud) |
 | **דניאל למברסקי** | מתכנת ואוסף נתונים | [danielemb1](https://github.com/danielemb1) |
-| **רועי** | איסוף נתונים | [roei789](https://github.com/roei789) |
+| **רועי בכר** | איסוף נתונים | [roei789](https://github.com/roei789) |
 | **יהב כהן** | הצגה ועיצוב | [Yahavb97](https://github.com/Yahavb97) |
 | **עמית כהן** | הצגה ועיצוב | [aamitochen](https://github.com/aamitochen) |
 
